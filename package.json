@@ -1,0 +1,24 @@
+{
+  "name": "prisma",
+  "version": "1.0.0",
+  "description": "Projeto de Back-End em NodeJS em Prisma ORM",
+  "keywords": [
+    "NodeJS",
+    "Senai",
+    "Javascript",
+    "Prisma",
+    "Backend"
+  ],
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "João Vitor",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
